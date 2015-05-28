@@ -1,0 +1,4 @@
+./sixx.sh
+./gmmm.sh
+./ffmpp.sh
+sshpass -p '0kk1asl0hH' scp aaa pawel33317@haks.pl:/home/pawel33317/public_html/pliki/pliki/final_video.mp4
